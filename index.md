@@ -11,4 +11,4 @@
 
 ## Slide Repository
 
-[Variables Slides](variables.pdf)
+[Variables Slides](Variables.pdf)
