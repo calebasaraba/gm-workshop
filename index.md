@@ -4,7 +4,7 @@
 
 [Titanic Survival Data](titanic.csv)
  
-[String Exercise Data](string_data.dta)
+[String Exercise Data](strings.csv)
 
 ## Slide Repository
 
