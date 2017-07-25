@@ -8,4 +8,4 @@
 
 ## Slide Repository
 
-[Day 1 Slides](Day 1.pdf)
+[Day 1 Slides](`Day 1.pdf`)
