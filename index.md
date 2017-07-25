@@ -8,3 +8,7 @@
 [String Exercise Data](string_data.dta)
 
 [Titanic Survival Data](titanic.csv)
+
+## Slide Repository
+
+[Variables Slides](variables.pdf)
