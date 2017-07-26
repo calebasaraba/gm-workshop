@@ -1,5 +1,7 @@
 ## File Repository
   
+[Setup Do-file](setup.do)
+
 [Movie Metadata](movie_metadata.xls)
 
 [Titanic Survival Data](titanic.csv)
