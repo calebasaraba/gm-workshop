@@ -8,6 +8,8 @@
  
 [String Exercise Data](strings.csv)
 
+[Long to Wide Cale Lizard File](cale_lizard.xlsx)
+
 ## Slide Repository
 
 [Day 1 Slides](Day1.pdf)
