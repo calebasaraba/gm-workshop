@@ -13,3 +13,5 @@
 [Day 1 Slides](Day1.pdf)
 
 [Day 2 Morning Slides](Day2Morning.pdf)
+
+[Day 2 Afternoon Slides](Day2Afternoon.pdf)
