@@ -19,3 +19,10 @@
 [Day 2 Afternoon Slides](Day2Afternoon.pdf)
 
 [Extra Slides: Strings / Dates](StringsDates.pdf)
+
+## Exercise Solutions
+
+[String Exercise Solutions](string.do)
+
+[Wide/Long Exercise Solutions](WideLongSolutions.do)
+
