@@ -32,11 +32,13 @@
 
 [Documentation / SVY Commands Example](DocumentSVY.pdf)
 
+[Reshaping Data: Wide to Long / Long to Wide](LongWide.pdf)
+
 [Extra Slides: Strings / Dates](StringsDates.pdf)
 
 ## Exercise Solutions
 
 [String Exercise Solutions](string.do)
 
-[Wide/Long Exercise Solutions](WideLongSolutions.do)
+[Long/Wide Exercise Solutions](WideLongSolutions.do)
 
