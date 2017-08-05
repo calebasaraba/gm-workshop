@@ -30,6 +30,8 @@
 
 [Local Macros / Additional Looping](LocalMacros.pdf)
 
+[Documentation / SVY Commands Example](DocumentSVY.pdf)
+
 [Extra Slides: Strings / Dates](StringsDates.pdf)
 
 ## Exercise Solutions
