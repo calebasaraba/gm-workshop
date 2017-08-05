@@ -22,11 +22,9 @@
 
 [Saving Data / Merging Datasets](SavingMerging.pdf)
 
-[For Loops / If - Else Clauses](ForIfElse.pdf)
-
 [Basic Stata Graphs](Plots.pdf)
 
-
+[For Loops / If - Else Clauses](ForIfElse.pdf)
 
 [Extra Slides: Strings / Dates](StringsDates.pdf)
 
