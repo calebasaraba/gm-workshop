@@ -12,7 +12,7 @@
 
 ## Slide Repository
 
-[Day 1 Slides](Day1.pdf)
+[Stata Overview](StataOverview.pdf)
 
 [Day 2 Morning Slides](Day2Morning.pdf)
 
