@@ -22,6 +22,8 @@
 
 [Saving Data / Merging Datasets](SavingMerging.pdf)
 
+[For Loops / If - Else Clauses](ForIfElse.pdf)
+
 [Basic Stata Graphs](Plots.pdf)
 
 
