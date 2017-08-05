@@ -26,6 +26,8 @@
 
 [For Loops / If - Else Clauses](ForIfElse.pdf)
 
+[Hypothesis Testing / Regression / Stored Results](HypothesisStored.pdf)
+
 [Extra Slides: Strings / Dates](StringsDates.pdf)
 
 ## Exercise Solutions
