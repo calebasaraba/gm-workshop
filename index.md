@@ -17,3 +17,5 @@
 [Day 2 Morning Slides](Day2Morning.pdf)
 
 [Day 2 Afternoon Slides](Day2Afternoon.pdf)
+
+[Extra Slides: Strings / Dates](StringsDates.pdf)
