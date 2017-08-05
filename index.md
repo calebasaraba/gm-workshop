@@ -28,6 +28,8 @@
 
 [Hypothesis Testing / Regression / Stored Results](HypothesisStored.pdf)
 
+[Local Macros / Additional Looping](LocalMacros.pdf)
+
 [Extra Slides: Strings / Dates](StringsDates.pdf)
 
 ## Exercise Solutions
