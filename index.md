@@ -22,6 +22,8 @@
 
 [Saving Data / Merging Datasets](SavingMerging.pdf)
 
+[Basic Stata Graphs](Plots.pdf)
+
 
 
 [Extra Slides: Strings / Dates](StringsDates.pdf)
