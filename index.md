@@ -37,8 +37,9 @@
 [Extra Slides: Strings / Dates](StringsDates.pdf)
 
 ## Exercise Solutions
-
-[String Exercise Solutions](string.do)
+[Merging m:1 Example Solutions](merging.do)
 
 [Long/Wide Exercise Solutions](WideLongSolutions.do)
+
+[String Exercise Solutions](string.do)
 
