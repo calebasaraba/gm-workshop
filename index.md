@@ -1,3 +1,9 @@
+# Guttmacher Stata Training
+
+The following website archives the datasets, slides, and exercise solutions for Cale Basaraba's Stata Training workshop held on Wednesday, July 26th and Thursday, July 27th 2017.
+
+For additional support or questions please contact cale.basaraba@gmail.com
+
 ## File Repository
   
 [Setup Do-file](setup.do)
