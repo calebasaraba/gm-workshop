@@ -12,13 +12,11 @@
 
 ## Slide Repository
 
-[Stata Overview](StataOverview.pdf)
+[Stata Overview](StataOverview.pdf)  [Loading Data / Intro to Variables](LoadingVariables.pdf)
 
-[Loading Data / Intro to Variables](LoadingVariables.pdf)
+[Variables: Types / Generation / Recoding / Labels](Variables.pdf)  [Extra Slides: Strings / Dates](StringsDates.pdf)
 
-[Variables: Types / Generation / Recoding / Labels](Variables.pdf)
-
-[Extra Slides: Strings / Dates](StringsDates.pdf)
+[Commands / Descriptive Statistics](Commands.pdf)
 
 ## Exercise Solutions
 
