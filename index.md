@@ -37,6 +37,12 @@
 [Extra Slides: Strings / Dates](StringsDates.pdf)
 
 ## Exercise Solutions
+[All Movies Exercise Solutions](movies-solutions.do)
+
+[All Titanic Exercise Solutions](titanic-solutions.do)
+
+[All Auto Exercise Solutions](auto-solutions.do)
+
 [Merging m:1 Example Solutions](merging.do)
 
 [For Loop Practice Solutions](forloop.do)
