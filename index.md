@@ -14,7 +14,7 @@
 
 [Stata Overview](StataOverview.pdf)
 
-[Day 2 Morning Slides](Day2Morning.pdf)
+[Loading Data / Intro to Variables](LoadingVariables.pdf)
 
 [Day 2 Afternoon Slides](Day2Afternoon.pdf)
 
