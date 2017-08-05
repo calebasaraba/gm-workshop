@@ -39,6 +39,8 @@
 ## Exercise Solutions
 [Merging m:1 Example Solutions](merging.do)
 
+[For Loop Practice Solutions](forloop.do)
+
 [Long/Wide Exercise Solutions](WideLongSolutions.do)
 
 [String Exercise Solutions](string.do)
