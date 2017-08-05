@@ -16,7 +16,7 @@
 
 [Loading Data / Intro to Variables](LoadingVariables.pdf)
 
-[Day 2 Afternoon Slides](Day2Afternoon.pdf)
+[Variables: Types / Generation / Recoding / Labels](Variables.pdf)
 
 [Extra Slides: Strings / Dates](StringsDates.pdf)
 
